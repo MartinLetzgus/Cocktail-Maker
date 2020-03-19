@@ -1,2 +1,2 @@
 # Cocktail-Maker
-Cocktail Generation using a Kaggle Dataset
+Here is a notebook I made using a Kaggle dataset made of 990 cocktails. The first idea was to explore the dataset and see what could be done, it ended being a cocktail generator. The dataset countains a lot of similar ingredients (like a lot of different whiskey) so the results should probably be improved by working on this part. Maybe I'll come back to this dataset one day, do not hesitate to contact me if you have any idea or question about it.
